@@ -1,6 +1,7 @@
 # setup
+how to setup : 
 
-brew bundle
+> brew bundle
 
 
 Update OhZsh : 
@@ -9,7 +10,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 ----------
 
-'# ~/.zshrc
+> # ~/.zshrc
 
 # You can change the theme with another one:
 #   https://github.com/robbyrussell/oh-my-zsh/wiki/themes
